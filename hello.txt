@@ -1,0 +1,2 @@
+Hello git!
+Welcome to my git repo creation assignment
